@@ -19,8 +19,15 @@ background-size: cover;
 background-position: left;
 height: 720px;
 }
-.border-top{
-width: 40%;
+.textofoto {
+position: absolute;
+bottom: 0;
+left: 0;
+right: 0;
+}
+.linea {
+width: 30%;
+margin: 0 auto;
 }
 .logo {
 width: 30%;
