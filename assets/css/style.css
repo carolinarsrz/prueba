@@ -19,8 +19,14 @@ background-size: cover;
 background-position: left;
 height: 720px;
 }
+.border-top{
+width: 40%;
+}
 .logo {
 width: 30%;
+}
+.carousel-indicators {
+bottom: -16px!important;
 }
 .carousel-indicators li {
 width: 15px;
@@ -28,3 +34,4 @@ height: 15px;
 border-radius: 50%;
 margin-bottom: -50px;
 background-color: #ffffff;
+}

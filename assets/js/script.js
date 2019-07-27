@@ -28,3 +28,6 @@ $(function(){
     q.parentNode.insertBefore(js, q)
   }
 });
+
+  $('[data-toggle="tooltip"]').tooltip()
+;
